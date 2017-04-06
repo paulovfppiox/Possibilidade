@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1364241462 source:f:\workspace\possibilidade\possibilidade\src\possibilidade.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\Possibilidade.h"
+
+1364240684 f:\workspace\possibilidade\possibilidade\include\possibilidade.h
+
+1365530956 source:f:\workspace\possibilidade\possibilidade\src\fuzzymembership.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\fuzzyMembership.h"
+
+1365530968 f:\workspace\possibilidade\possibilidade\include\fuzzymembership.h
+	<iostream>
+
+1364241421 source:f:\workspace\possibilidade\possibilidade\teste.cpp
+	<iostream>
+	"F:\workspace\Possibilidade\Possibilidade\include\fuzzyMembership.h"
+	"F:\workspace\Possibilidade\Possibilidade\include\Possibilidade.h"
+
+1365529577 source:f:\workspace\possibilidade\possibilidade\main.cpp
+	<iostream>
+	"F:\workspace\Possibilidade\Possibilidade\include\fuzzyMembership.h"
+	"F:\workspace\Possibilidade\Possibilidade\include\Possibilidade.h"
+
+1365531494 source:f:\workspace\possibilidade\possibilidade\src\trainingclasses.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\trainingClasses.h"
+
+1365531556 f:\workspace\possibilidade\possibilidade\include\trainingclasses.h
+	"F:\workspace\Possibilidade\Possibilidade\include\fuzzyMembership.h"
+	<list>
+
+1365530956 source:c:\users\paulo paiva\dropbox\paulo\backup\possibilidade\possibilidade\src\fuzzymembership.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\fuzzyMembership.h"
+
+1364241462 source:c:\users\paulo paiva\dropbox\paulo\backup\possibilidade\possibilidade\src\possibilidade.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\Possibilidade.h"
+
+1365531494 source:c:\users\paulo paiva\dropbox\paulo\backup\possibilidade\possibilidade\src\trainingclasses.cpp
+	"F:\workspace\Possibilidade\Possibilidade\include\trainingClasses.h"
+
